@@ -1,0 +1,22 @@
+{
+    "id": "",
+    "name": "Allegiance",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "JASM18",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "SrGuss",
+            "link": "https://youtu.be/_HsfdQRxajM?si=gFXEd-u5LPCVWgV4",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "",
+    "name": "Cataclysm",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "SOFIARG",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "JASM18",
+            "link": "",
+            "percent": 100
+        }
+    ]
+}

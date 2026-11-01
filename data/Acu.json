@@ -1,0 +1,27 @@
+{
+    "id": "",
+    "name": "Acu",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "SOFIARG",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "JASM18",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "SrGuss",
+            "link": "https://www.youtube.com/watch?v=yJ3Z-Bc3-bg",
+            "percent": 100
+        }
+    ]
+}

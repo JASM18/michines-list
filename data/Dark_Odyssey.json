@@ -1,0 +1,22 @@
+{
+    "id": "",
+    "name": "Dark Odyssey",
+    "author": "",
+    "creators": [],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "",
+    "records": [
+        {
+            "user": "JASM18",
+            "link": "",
+            "percent": 100
+        },
+        {
+            "user": "SrGuss",
+            "link": "https://www.youtube.com/watch?v=WqNOPj1ZxEA&t",
+            "percent": 100
+        }
+    ]
+}
