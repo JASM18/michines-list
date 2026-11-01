@@ -1,16 +1,16 @@
 {
     "id": "",
     "name": "Aftermath",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "author": "Exenity",
+    "creators": ["knobbelboy", "Exenity", "Squizz", "Vultra", "Rhythmic", "Waze", "Bassiegames", "Findexi"],
+    "verifier": "DaMeister",
+    "verification": "https://www.youtube.com/watch?v=iLCcJyh5c5k",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
             "user": "SOFIARG",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=QJgR3XoNzcI",
             "percent": 100
         }
     ]

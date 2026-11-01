@@ -1,16 +1,25 @@
 {
-    "id": "",
+    "id": "77472552",
     "name": "Kumbiareta",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "author": "Reiizor",
+    "creators": ["Johnfree",
+"Xoulz",
+"LowHeaven",
+"Galvam",
+"Xebby (participacion especial de astrofox)",
+"Sekya",
+"Bluelite",
+"Harpax",
+"Simón",
+"MrGm211"],
+    "verifier": "Johnfree",
+    "verification": "https://youtu.be/xUlhyaElfmg?si=Q6KqKZHTVSZA3dXa",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
             "user": "SOFIARG",
-            "link": "",
+            "link": "https://www.youtube.com/watch?v=Q1h055VruRQ",
             "percent": 100
         }
     ]

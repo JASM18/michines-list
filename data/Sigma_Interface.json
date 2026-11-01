@@ -1,16 +1,16 @@
 {
-    "id": "",
+    "id": "62551239",
     "name": "Sigma Interface",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "author": "Platnuu",
+    "creators": ["TeslaX", "Platnuu"],
+    "verifier": "Technical",
+    "verification": "https://www.youtube.com/watch?v=zU1YH1AR8ok",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
             "user": "SOFIARG",
-            "link": "",
+            "link": "https://youtu.be/2vU1joyPbQ0?si=GSlQQ_Kj5ur39f7E",
             "percent": 100
         }
     ]

@@ -1,21 +1,21 @@
 {
-    "id": "",
+    "id": "61079355",
     "name": "Acu",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "author": "neigefeu",
+    "creators": ["neigefeu"],
+    "verifier": "neigefeu",
+    "verification": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
             "user": "SOFIARG",
-            "link": "",
+            "link": "https://www.youtube.com/live/E3DdguAbFdE?si=oaaqxzJ4HCE_6W3x",
             "percent": 100
         },
         {
             "user": "JASM18",
-            "link": "",
+            "link": "https://youtu.be/ZH7tZryLzlE?si=_D9D7aJx4AmYSJDq",
             "percent": 100
         },
         {

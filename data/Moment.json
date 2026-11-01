@@ -1,16 +1,16 @@
 {
-    "id": "",
+    "id": "68848817",
     "name": "Moment",
-    "author": "",
-    "creators": [],
-    "verifier": "",
-    "verification": "",
+    "author": "Lexycat",
+    "creators": ["Lexycat"],
+    "verifier": "Johnfree",
+    "verification": "https://www.youtube.com/watch?v=HBQhYLRgdvE",
     "percentToQualify": 100,
     "password": "",
     "records": [
         {
             "user": "SOFIARG",
-            "link": "",
+            "link": "https://youtu.be/3tz4YPHPvpI?si=3l5NZcsT_y9FOMdK",
             "percent": 100
         }
     ]
